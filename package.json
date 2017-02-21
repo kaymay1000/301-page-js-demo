@@ -1,0 +1,24 @@
+{
+  "name": "class11_pagejsdemo",
+  "version": "1.0.0",
+  "description": "Starter code for an in-class demo on using PageJS",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaymay1000/301-page-js-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaymay1000/301-page-js-demo/issues"
+  },
+  "homepage": "https://github.com/kaymay1000/301-page-js-demo#readme"
+}
